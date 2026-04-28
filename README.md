@@ -30,7 +30,7 @@ Elxr is a laptop-first desktop app for capturing ideas, organizing notes, and sh
 
 <p align="center">
 	<a href="./assets/media/elxr-loop.mp4">
-		<img src="./assets/screenshots/landing-loop.gif" alt="Watch Elxr preview video" width="100%" />
+		<img src="./assets/media/landing-loop.gif" alt="Watch Elxr preview video" width="100%" />
 	</a>
 </p>
 
