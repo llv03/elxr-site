@@ -24,10 +24,7 @@ Elxr is a laptop-first desktop app for capturing ideas, organizing notes, and sh
 - macOS DMG: [Download Elxr](https://github.com/llv03/elxr-site/releases/download/elxr-0.1-dmg/elxr_0.1.0_universal.dmg)
 
 
-
-
 ## Screenshots
-
 
 <p align="center">
 	<img src="./assets/media/preview-1.png"  width="48%" />
