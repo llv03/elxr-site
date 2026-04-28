@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>{{ page.title }} · Elxr</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png" />
+    <link rel="apple-touch-icon" href="/assets/elxr-icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+  </head>
+  <body>
+    <main class="page-shell">
+      <header class="topbar">
+        <div class="brandline">
+          <img src="/assets/elxr-icon.png" alt="Elxr" class="brand-icon" />
+          <span class="brand-text">ELXR</span>
+        </div>
+        <nav class="nav">
+          <a href="/">Home</a>
+          <a href="/docs/">Docs</a>
+          <a href="/share/">Share</a>
+          <a href="/privacy-policy/">Privacy Policy</a>
+          <a href="/terms-of-service/">Terms</a>
+        </nav>
+      </header>
+      <section class="content">
+        <p class="layout-subtitle">Private by default notes, clean writing flow, and intentional sharing.</p>
+        {{ content }}
+      </section>
+    </main>
+  </body>
+</html>

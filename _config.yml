@@ -1,0 +1,16 @@
+title: Elxr
+description: Private first note workspace
+url: "https://www.elxr.work"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
